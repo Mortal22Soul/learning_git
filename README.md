@@ -12,4 +12,4 @@ The `pull` command is a combo of the `fetch` and `merge` commands.
 
 Learning the `push` command.
 
-This commmit should happen in the `test ` branch hopefully.
+This commmit should happen in the `test` branch hopefully.
