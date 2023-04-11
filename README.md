@@ -16,4 +16,7 @@ Learning about branches and using the `checkout` command to switch branches.
 
 This commmit should happen in the `test` branch hopefully.
 
-That was successfull
+That was successfull.
+
+Final commit for today.
+ALmost done learning git will be done by tomorrow evening.
