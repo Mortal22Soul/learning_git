@@ -2,7 +2,7 @@
 
 Random repo created to learn git
 
-Learning **git** the proper way.
+Learning **_git_** the proper way.
 
 Learning `fetch` and `merge` now.
 
