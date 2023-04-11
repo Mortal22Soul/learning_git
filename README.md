@@ -16,4 +16,6 @@ Learning about branches and using the `checkout` command to switch branches.
 
 This commmit should happen in the `test` branch hopefully.
 
-That was successfull
+That was successfull.
+
+This line should only be on the _local_ branch.
