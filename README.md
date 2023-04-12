@@ -20,5 +20,6 @@ That was successfull.
 
 Final commit for today.
 
-Almost done learning git will be done by tomorrow afternoon.
-This is fun.
+I'll finish learning git completely today.
+
+Such a cool piece of software.
